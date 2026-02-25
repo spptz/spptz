@@ -1,4 +1,4 @@
-## Olá, eu sou o [Lucas Erick]! 👋
+## Olá, sou Lucas Erick! 👋
 
 ### 🛠️ Sobre mim
 - 🎓 Estudante na **PUC Minas**.
