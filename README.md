@@ -39,7 +39,7 @@
 
 ### 👤 Sobre Mim
 
-Sou um estudante focado em expandir meu conhecimento em engenharia de software em fase inicial. Meus hobbies incluem acompanhar a F1, correr de Kart e jogar videogames.
+Sou um estudante focado em expandir meu conhecimento em programação e engenharia de software. Meus hobbies incluem acompanhar a F1, correr de Kart e jogar videogames.
 
 ---
 
