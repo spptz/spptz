@@ -7,11 +7,9 @@
 
 ---
 
-#### 🧑‍💻 Linguagens & Frameworks
-
 <div align="center">
   
-  ### 🌐 Linguagens
+  ### 🌐 Linguagens e Frameworks
   
   <p align="center">
     <img src="https://skillicons.dev/icons?i=java,js,cpp,html,react,dotnet" />
