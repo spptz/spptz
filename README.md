@@ -8,18 +8,17 @@
 ---
 
 <div align="center">
-  
+
   ### 🌐 Linguagens e Frameworks
-  
-  <p align="center">
+  <br> <p align="center">
     <img src="https://skillicons.dev/icons?i=java,js,cpp,html,react,dotnet" />
   </p>
 
 ---
 
-#### 📝 Databases e Infraestrutura
-
- <p align="center">
+  #### 📝 Databases e Infraestrutura
+  <br>
+  <p align="center">
     <img src="https://skillicons.dev/icons?i=aws,mysql" />
     <br><br>
     <img src="https://img.shields.io/badge/salesforce-003B57?style=for-the-badge&logo=salesforce&logoColor=white" />
@@ -29,8 +28,8 @@
 
 ---
 
-### 💻 Ferramentas & Ambientes
-
+  ### 💻 Ferramentas & Ambientes
+  <br>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,replit,eclipse,windows" />
     <br><br>
@@ -40,20 +39,19 @@
 
 </div>
 
-
 ---
 
 ### 📫 Contato
-
+<br>
 <p align="center">
   <a href="https://www.linkedin.com/in/lukkstw/" target="_blank">
-   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/spptz" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/lukk.stw/" target="_blank">
-    <img src="https://img.shields.io/badge/@lukk.stw-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
