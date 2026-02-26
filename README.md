@@ -3,7 +3,7 @@
 ### 🛠️ Sobre mim
 - 🎓 Estudante na **PUC Minas**.
 - 📊 Desenvolvendo em Java, C# e .NET.
-- 🏎️ Entusiasta de Formula 1 e Games.
+- 🏎️ Entusiasta de Fórmula 1 e Games.
 
 ---
 
@@ -11,7 +11,7 @@
 
   ### 🌐 Linguagens e Frameworks
   <br> <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,js,cpp,html,react,dotnet,php" />
+    <img src="https://skillicons.dev/icons?i=java,js,cpp,html,react,dotnet" />
   </p>
 
 ---
