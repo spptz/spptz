@@ -22,7 +22,7 @@
  <p align="center">
     <img src="https://skillicons.dev/icons?i=aws,mysql" />
     <br><br>
-    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+    <img src="https://img.shields.io/badge/salesforce-003B57?style=for-the-badge&logo=salesforce&logoColor=white" />
     <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
     <img src="https://img.shields.io/badge/Oracle-F00000?style=for-the-badge&logo=oracle&logoColor=white" />
   </p>
