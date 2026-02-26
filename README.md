@@ -11,7 +11,7 @@
 
   ### 🌐 Linguagens e Frameworks
   <br> <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,js,cpp,html,react,dotnet" />
+    <img src="https://skillicons.dev/icons?i=java,js,cpp,html,react,dotnet,php" />
   </p>
 
 ---
