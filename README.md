@@ -2,7 +2,7 @@
 
 ### 🛠️ Sobre mim
 - 🎓 Estudante na **PUC Minas**.
-- 📊 Desenvolvendo em Java, C# e .NET.
+- 📊 Desenvolvendo em Java/Spring, C#/.NET.
 - 🏎️ Entusiasta de Fórmula 1 e Games.
 
 ---
